@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cassidyscookies.com/sitemap-index.xml

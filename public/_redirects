@@ -1,0 +1,17 @@
+# Old WordPress URLs -> new URLs. Format: from  to  status
+/sitemaps.xml /sitemap-index.xml 301
+/sitemap_index.xml /sitemap-index.xml 301
+/sitemap.xml /sitemap-index.xml 301
+/wp-sitemap.xml /sitemap-index.xml 301
+/post-sitemap1.xml /sitemap-index.xml 301
+/page-sitemap1.xml /sitemap-index.xml 301
+/category-sitemap1.xml /sitemap-index.xml 301
+/post_tag-sitemap1.xml /sitemap-index.xml 301
+# Pages that were Bricks placeholders or expired: the new site is one page
+/about/ / 301
+/contact/ / 301
+/family-reunion-cookie-class/ / 301
+/sample-post-1/ / 301
+/sample-post-2/ / 301
+/sample-post-3/ / 301
+/category/uncategorized/ / 301
